@@ -1,0 +1,9 @@
+# Redirect / to /index.php
+DirectoryIndex index.php
+
+# Disable directory listing
+Options -Indexes
+
+# Custom error pages
+ErrorDocument 403 /includes/403-forbidden.php
+ErrorDocument 404 /includes/404-notfound.php
