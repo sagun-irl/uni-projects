@@ -14,7 +14,7 @@ Topics to be included in project:
 * Library DB
 
 ## Report Stages
-* Proposal **< current stage**
+* Proposal
 * Mid-term
 * Final
 
@@ -33,7 +33,7 @@ Topics to be included in project:
 1. Required Identification
 	* Study of Existing System
 	* Requirement collection
-		* Ask the related people in that filed, collect information on what they have / are already using.
+		* Ask the related people in that field, collect information on what they have / are already using.
 2. Feasibility study
 	* Cost of project (free)
 3. High-level design
@@ -46,7 +46,7 @@ Topics to be included in project:
 ```css
 font-family: 'Times New Roman';
 --page-margin: 1in; /* inch */
---page-margin-left: 1.5in;
+--page-margin-left: 1.25in;
 --heading-size: 16px;
 --subheading-size: 14px;
 --content-text-size: 12px;
