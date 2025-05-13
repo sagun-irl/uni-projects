@@ -66,14 +66,14 @@ The project can then be deployed using PHP dev server or Apache:
 ```console
 $ php -S localhost:<port> -t ./server-root
 ```
-> **Note**\
+> [!Note]
 > Apache server is required for `.htaccess` directives (such as directory hiding, error pages) to take effect.
 
 ---
 
 Or for GUI users who prefer using Laragon:
 
-> **Tip**\
+> [!Tip]
 > The root directory for Laragon is `laragon/www/`
 
 1. Download this project as a `.zip`
@@ -88,7 +88,7 @@ For a swift assessment of the functionalities, the database tables can be quickl
 $ php -f ./populate-db.php
 ```
 
-> **Tip**\
+> [!Tip]
 > If students are sparse in attendance lists, run the populate script a few more times.
 
 ## Authors
